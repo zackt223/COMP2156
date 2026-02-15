@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zackt223/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/zackt223/COMP2156/static/js/main.e6822a34.js",
+    "static/js/453.587ded94.chunk.js": "/zackt223/COMP2156/static/js/453.587ded94.chunk.js",
+    "index.html": "/zackt223/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/zackt223/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.e6822a34.js.map": "/zackt223/COMP2156/static/js/main.e6822a34.js.map",
+    "453.587ded94.chunk.js.map": "/zackt223/COMP2156/static/js/453.587ded94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.e6822a34.js"
+  ]
+}
